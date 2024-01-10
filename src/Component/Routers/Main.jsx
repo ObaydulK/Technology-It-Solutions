@@ -5,7 +5,7 @@ import Navbar from "../Navbar/Navbar";
 
 const Main = () => {
     return (
-        <div >
+        <div className="font-serif">
             < Navbar />
             <Outlet />
             <Footer />
