@@ -241,6 +241,89 @@ const Home = () => {
                 </div>
 
                 {/* Client testimonials part end  */}
+                {/* Meet expert Team part Start  */}
+                <div className="border-b-4" >
+                    <div className="bg-white py-10">
+                        {/* Meet expert Team title part Start  */}
+                        <div className="    ">
+                            <div className="text-black text-center ">
+                                <h1 className="text-3xl font-bold pt-10">Meet Expert team</h1>
+                                <h1 className="text-6xl font-bold py-10">Our 60+ Team Member's</h1>
+                                <p className="text-3xl ">With over 60 experienced team members, we bring a wealth of expertise to every <br /> project, guaranteeing top-notch solutions tailored to your needs.</p>
+                            </div>
+                        </div>
+                        {/* Meet expert Team title part End */}
+                        <div className="py-10 grid grid-cols-4 gap-5 ">
+                            <div className="card ">
+                                <figure><img className="  rounded-3xl" src="https://gossip-themes.com/techogy/wp-content/uploads/2024/01/team04.jpg" alt="Shoes" /></figure>
+                                <div className="card-body text-center text-black">
+                                    <h2 className="">Jahnathon Smith</h2>
+                                    <p>Chief Technology Officer</p>
+                                </div>
+                            </div>
+                            <div className="card ">
+                                <figure><img className="  rounded-3xl" src="https://gossip-themes.com/techogy/wp-content/uploads/2024/01/team03.jpg" alt="Shoes" /></figure>
+                                <div className="card-body text-center text-black">
+                                    <h2 className="">Jahnathon Smith</h2>
+                                    <p>Chief Technology Officer</p>
+                                </div>
+                            </div>
+                            <div className="card ">
+                                <figure><img className="  rounded-3xl" src="https://gossip-themes.com/techogy/wp-content/uploads/2024/01/team02.jpg" alt="Shoes" /></figure>
+                                <div className="card-body text-center text-black">
+                                    <h2 className="">Jahnathon Smith</h2>
+                                    <p>Chief Technology Officer</p>
+                                </div>
+                            </div>
+                            <div className="card ">
+                                <figure><img className="  rounded-3xl" src="https://gossip-themes.com/techogy/wp-content/uploads/2024/01/team01.jpg" alt="Shoes" /></figure>
+                                <div className="card-body text-center text-black">
+                                    <h2 className="">Jahnathon Smith</h2>
+                                    <p>Chief Technology Officer</p>
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </div>
+                </div>
+
+                {/* Meet expert Team part end  */}
+                {/* We Are Hiring part Start  */}
+                <div className="bg-white">
+                    <div className="  flex p-10 text-black ">
+                        <div className=" w-2/3">
+                            <h1 className="text-3xl"><a href=" ">WE ARE HIRING</a></h1>
+                            <h1 className="text-6xl font-bold">Join our Team</h1>
+                        </div>
+                        <div className=" w-2/6">
+                            <p className="py-6 text-2xl"> At Techogy, we’re more than just an IT solution company; we’re a dynamic community of innovators, problem-solvers, and visionaries. Join us in the world of technology where opportunities are limitless, challenges are embraced, and excellence is the norm. </p>
+                            <div className="underline">
+                                <h1>SEE OPEN POSITIONS</h1>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {/* We Are Hiring part end  */}
+                {/* Have any question part start  */}
+                <div className=" bg-white p-10">
+                    <div className=" rounded-3xl bg-[url('https://gossip-themes.com/techogy/wp-content/uploads/2023/12/touch-bg.svg')]">
+                        <div className="py-44   grid grid-flow-col items-center shadow-xl">
+                            <div className="px-10  text-white">
+                                <h2 className=" text-4xl pb-10">Have any question? <br /> Our team is happy <br /> to assist you</h2>
+                                <p>We're here to help! If you have any questions or need assistance with <br /> any aspect of our services, our dedicated team is ready to <br /> assist you. Don't hesitate to get in touch with us..</p>
+                                <div className=" flex py-10 items-center ">
+                                    <button className="btn btn-primary bg-white rounded-full border-none">get one Touch</button>
+                                    <p className=" ml-10">Or Call <span className=" underline">+8801518792691</span></p>
+                                </div>
+                            </div>
+                            <div className="  block items-center">
+                                <figure><img className="" src="https://gossip-themes.com/techogy/wp-content/uploads/2023/12/office-man.png" alt="Movie" /></figure>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {/* Have any question part end  */}
 
 
 
